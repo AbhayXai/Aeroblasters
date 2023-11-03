@@ -1,7 +1,6 @@
 # Aeroblasters
 
-# Author : Prajjwal Pathak (pyguru)
-# Date : Thursday, 30 September, 2021
+# Author :Abhay Pawar
 
 import random
 import pygame
